@@ -12,8 +12,8 @@
 * **Java:** `21+`
 
 ## Credits:
-**EvaWare v3**
-**Erbium**(dev)
+* **EvaWare v3**
+* **Erbium**(dev)
 
 ## Licensing:
 This project is licensed under the **GNU General Public License v3.0**.  
