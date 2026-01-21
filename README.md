@@ -11,6 +11,10 @@
 * **Fabric API:**
 * **Java:** `21+`
 
+## Credits:
+**EvaWare v3**
+**Erbium**(dev)
+
 ## Licensing:
 This project is licensed under the **GNU General Public License v3.0**.  
 If you use **ANY** code from this source:
